@@ -1,0 +1,19 @@
+nome: Thales Eduardo #Meu nome
+idade: 16 # 16 anos
+curso: Desenvolvimento de Sistema #curso
+sala: 203
+escola: COLTEC
+interesses: 
+  - c
+  - python
+endereco: #objeto
+  pais: Brasil
+  estado: Minas Gerais
+data:
+  ano: 2006
+  mes: abril
+  dia: 19
+  hora: 19
+  minutos: 36
+  segundos: 8
+ # ESSE EH O MEU ARQUIVO YAML
