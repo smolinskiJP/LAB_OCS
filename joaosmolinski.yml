@@ -1,0 +1,13 @@
+nome: Joao Pedro Moreira Smolinski
+idade: 16
+data_de_nascimento: #Objeto
+  ano: 2005
+  mes: Maio
+  dia: 24
+escola: COLTEC
+curso: Desenvolvimento de Sistemas 
+sala: 203
+endereco:
+  pais: Brasil
+  estado: Minas Gerais
+  cidade: Belo Horizonte
